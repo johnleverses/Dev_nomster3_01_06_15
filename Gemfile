@@ -50,5 +50,5 @@ gem 'sass-rails'
 
 ## Gemfile for Rails 3+, Sinatra, and Merb
 gem 'will_paginate', '~> 3.0.6'
-
 gem 'simple_form'
+gem 'devise', '>= 3.2.4'
